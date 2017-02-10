@@ -1,4 +1,4 @@
-FROM python:2.7.13-slim
+FROM docker.io/python:2.7.13-slim
 MAINTAINER developer@detalytics.com
 
 # gpg keys listed at https://github.com/nodejs/node
